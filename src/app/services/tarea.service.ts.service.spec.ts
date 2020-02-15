@@ -1,6 +1,6 @@
 import { TestBed } from '@angular/core/testing';
 
-import { Tarea.Service.TsService } from './tarea.service.ts.service';
+import { Tarea.Service.Ts.Service } from './tarea.service.ts.service';
 
 describe('Tarea.Service.TsService', () => {
   beforeEach(() => TestBed.configureTestingModule({}));
